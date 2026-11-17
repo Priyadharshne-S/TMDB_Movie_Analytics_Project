@@ -227,4 +227,4 @@ It demonstrates how multiple analytical technologies can work together to uncove
 
 **REEL INSIGHTS | Turning Movie Data into Meaningful Discoveries**
 
-*Python · Pandas · MySQL · SQL · Altair · Streamlit*
+*Python · Pandas · MySQL · SQL · Streamlit*
